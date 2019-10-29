@@ -1,0 +1,4 @@
+#Tue Oct 29 22:11:12 EET 2019
+base.0=/home/bos/development/projects/ui/streaming_service/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

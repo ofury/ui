@@ -32,12 +32,13 @@ class _HomeState extends State<Home> {
               ),
               title: Text("Search", style: TextStyle())),
           BottomNavigationBarItem(
-              icon: Icon(
-                Icons.bookmark_border,
-              ),
-              title: Text(
-                "Bookmark",
-              )),
+            icon: Icon(
+              Icons.bookmark_border,
+            ),
+            title: Text(
+              "Bookmark",
+            ),
+          ),
           BottomNavigationBarItem(
               icon: Icon(Icons.person_outline), title: Text("Profile"))
         ],

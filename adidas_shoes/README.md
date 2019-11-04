@@ -1,5 +1,6 @@
 # adidas_shoes
 
+Source code credit: @devefy
 A new Flutter project.
 
 ## Getting Started

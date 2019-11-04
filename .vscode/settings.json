@@ -1,0 +1,10 @@
+{
+  "files.exclude": {
+    "music_player": true,
+    "streaming_service": true,
+    ".vscode": true,
+    ".git": true,
+    ".gitpod.dockerfile": true,
+    ".gitpod.yml": true
+  }
+}

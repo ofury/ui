@@ -5,6 +5,8 @@
     ".vscode": true,
     ".git": true,
     ".gitpod.dockerfile": true,
-    ".gitpod.yml": true
+    ".gitpod.yml": true,
+    "adidas_shoes": true,
+    "tik_tok": true
   }
 }
